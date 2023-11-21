@@ -1,0 +1,4 @@
+name: DragonCoreBungee
+version: '${project.version}'
+main: it.mauro.dragoncorebungee.DragonCoreBungee
+author: maurof00
