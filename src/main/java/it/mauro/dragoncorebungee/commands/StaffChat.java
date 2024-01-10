@@ -11,7 +11,7 @@ public class StaffChat extends Command {
     private final DragonCoreBungee pl;
 
     public StaffChat(DragonCoreBungee pl) {
-        super("staffchat", "dragoncore.staffchat", "sc", "cs");
+        super("staffchat", "dragoncore.staffchat", "sc", "cs", "chatstaff");
         this.pl = pl;
     }
 
